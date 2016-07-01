@@ -15,3 +15,8 @@ Programming interview books are usually indexed by topic, and the questions are 
 ## Caveats
 
 There are **ABSOLUTELY** no guarantees as to the correctness of the solutions. In fact, I wouldn't be surprised if some of them were wrong. If you do find any mistakes, please submit a pull request with a counter example and the proposed changes. Thank you!
+
+##Languages used  
+C++14 was used to solve some of the questions. All .cpp code snippets can be compiled and tested from the command line using: 
+`g++ -o executable_name filename.cpp` <br> 
+`./executable_name`

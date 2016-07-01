@@ -1,5 +1,5 @@
 
-# Given a list of integers, given an integer that appears twice.
+# Given a list of integers, return an integer that appears twice.
 
 # Internally, Python sets are implemented using hash maps, which gives us constant time look up.
 
